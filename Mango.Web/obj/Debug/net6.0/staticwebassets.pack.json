@@ -5,12 +5,24 @@
       "PackagePath": "staticwebassets/Mango.Web.bundle.scp.css"
     },
     {
+      "Id": "/Users/admin/Documents/ProjectDemo/MangoRestaurant/Mango.Web/wwwroot/.DS_Store",
+      "PackagePath": "staticwebassets/.DS_Store"
+    },
+    {
       "Id": "/Users/admin/Documents/ProjectDemo/MangoRestaurant/Mango.Web/wwwroot/css/site.css",
       "PackagePath": "staticwebassets/css/site.css"
     },
     {
       "Id": "/Users/admin/Documents/ProjectDemo/MangoRestaurant/Mango.Web/wwwroot/favicon.ico",
       "PackagePath": "staticwebassets/favicon.ico"
+    },
+    {
+      "Id": "/Users/admin/Documents/ProjectDemo/MangoRestaurant/Mango.Web/wwwroot/images/mango.png",
+      "PackagePath": "staticwebassets/images/mango.png"
+    },
+    {
+      "Id": "/Users/admin/Documents/ProjectDemo/MangoRestaurant/Mango.Web/wwwroot/images/order.png",
+      "PackagePath": "staticwebassets/images/order.png"
     },
     {
       "Id": "/Users/admin/Documents/ProjectDemo/MangoRestaurant/Mango.Web/wwwroot/js/site.js",
