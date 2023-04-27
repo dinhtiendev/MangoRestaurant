@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1705.4
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "FrontEnd", "FrontEnd", "{CDE796D5-1F88-4900-B923-4A8400A3CFCC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Services", "Services", "{2296803F-110B-44F8-A395-599EF6B345D2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mango.Web", "Mango.Web\Mango.Web.csproj", "{454A5797-E1D2-4417-AD13-ACAAD1C3AE4F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mango.Services.ProductAPI", "Mango.Services.ProductAPI\Mango.Services.ProductAPI.csproj", "{271C36CC-4C49-4454-B696-B4AC2729DD5C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{454A5797-E1D2-4417-AD13-ACAAD1C3AE4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{454A5797-E1D2-4417-AD13-ACAAD1C3AE4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{454A5797-E1D2-4417-AD13-ACAAD1C3AE4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{454A5797-E1D2-4417-AD13-ACAAD1C3AE4F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{271C36CC-4C49-4454-B696-B4AC2729DD5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{271C36CC-4C49-4454-B696-B4AC2729DD5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{271C36CC-4C49-4454-B696-B4AC2729DD5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{271C36CC-4C49-4454-B696-B4AC2729DD5C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {29CC7DA1-6EB4-415E-AFE4-B456B305B588}
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{454A5797-E1D2-4417-AD13-ACAAD1C3AE4F} = {CDE796D5-1F88-4900-B923-4A8400A3CFCC}
+		{271C36CC-4C49-4454-B696-B4AC2729DD5C} = {2296803F-110B-44F8-A395-599EF6B345D2}
+	EndGlobalSection
+EndGlobal
