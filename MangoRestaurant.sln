@@ -1,4 +1,4 @@
-﻿
+
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 25.0.1705.4
@@ -10,6 +10,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mango.Web", "Mango.Web\Mango.Web.csproj", "{454A5797-E1D2-4417-AD13-ACAAD1C3AE4F}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mango.Services.ProductAPI", "Mango.Services.ProductAPI\Mango.Services.ProductAPI.csproj", "{271C36CC-4C49-4454-B696-B4AC2729DD5C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mango.Services.Identity", "Mango.Services.Identity\Mango.Services.Identity.csproj", "{17EE94F5-282C-4DE2-8D4E-815DC7D4EFC0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -25,6 +27,14 @@ Global
 		{271C36CC-4C49-4454-B696-B4AC2729DD5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{271C36CC-4C49-4454-B696-B4AC2729DD5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{271C36CC-4C49-4454-B696-B4AC2729DD5C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A33C170-B479-4D73-81A0-B773DA8E8B9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A33C170-B479-4D73-81A0-B773DA8E8B9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A33C170-B479-4D73-81A0-B773DA8E8B9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A33C170-B479-4D73-81A0-B773DA8E8B9C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17EE94F5-282C-4DE2-8D4E-815DC7D4EFC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17EE94F5-282C-4DE2-8D4E-815DC7D4EFC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17EE94F5-282C-4DE2-8D4E-815DC7D4EFC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17EE94F5-282C-4DE2-8D4E-815DC7D4EFC0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -35,5 +45,34 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{454A5797-E1D2-4417-AD13-ACAAD1C3AE4F} = {CDE796D5-1F88-4900-B923-4A8400A3CFCC}
 		{271C36CC-4C49-4454-B696-B4AC2729DD5C} = {2296803F-110B-44F8-A395-599EF6B345D2}
+		{2A33C170-B479-4D73-81A0-B773DA8E8B9C} = {2296803F-110B-44F8-A395-599EF6B345D2}
+		{0AB86AD3-278F-49FE-8B52-D41B1E8200EC} = {2296803F-110B-44F8-A395-599EF6B345D2}
+		{17EE94F5-282C-4DE2-8D4E-815DC7D4EFC0} = {2296803F-110B-44F8-A395-599EF6B345D2}
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		Policies = $0
+		$0.DotNetNamingPolicy = $1
+		$1.DirectoryNamespaceAssociation = PrefixedHierarchical
+		$0.TextStylePolicy = $2
+		$2.inheritsSet = null
+		$2.scope = text/x-csharp
+		$0.CSharpFormattingPolicy = $3
+		$3.scope = text/x-csharp
+		$0.TextStylePolicy = $4
+		$4.FileWidth = 80
+		$4.TabsToSpaces = True
+		$4.scope = text/plain
+		$0.TextStylePolicy = $5
+		$5.inheritsSet = null
+		$5.scope = text/x-css
+		$0.TextStylePolicy = $6
+		$6.inheritsSet = null
+		$6.scope = text/x-web
+		$0.TextStylePolicy = $7
+		$7.inheritsSet = null
+		$7.scope = text/x-vs
+		$0.TextStylePolicy = $8
+		$8.inheritsSet = null
+		$8.scope = text/x-cshtml-web
 	EndGlobalSection
 EndGlobal

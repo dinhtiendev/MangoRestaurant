@@ -29,3 +29,5 @@
 /Users/admin/Documents/ProjectDemo/MangoRestaurant/Mango.Web/obj/Release/net6.0/Mango.Web.pdb
 /Users/admin/Documents/ProjectDemo/MangoRestaurant/Mango.Web/obj/Release/net6.0/Mango.Web.genruntimeconfig.cache
 /Users/admin/Documents/ProjectDemo/MangoRestaurant/Mango.Web/obj/Release/net6.0/ref/Mango.Web.dll
+/Users/admin/Documents/ProjectDemo/MangoRestaurant/Mango.Web/bin/Release/net6.0/Newtonsoft.Json.dll
+/Users/admin/Documents/ProjectDemo/MangoRestaurant/Mango.Web/obj/Release/net6.0/Mango.Web.csproj.CopyComplete
